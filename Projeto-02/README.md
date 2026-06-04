@@ -1,4 +1,5 @@
-# Plano de Testes - Sistema de Academia
+# Projeto 02 - Plano de Testes
+## Sistema de Academia
 ## Obbjetivo
 Garantir que as funcionalidades do sistema funcionem corretamente. 
 ## Escopo
