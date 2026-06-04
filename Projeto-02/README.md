@@ -1,6 +1,6 @@
 # Projeto 02 - Plano de Testes
 ## Sistema de Academia
-## Obbjetivo
+## Objetivo
 Garantir que as funcionalidades do sistema funcionem corretamente. 
 ## Escopo
 - Cadastro de alunos
